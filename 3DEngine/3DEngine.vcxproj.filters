@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Color.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HeaderTest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Log.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Mat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Math.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Model.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Surface.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Vec2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Vec3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Vec4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Face.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Material.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Quaternion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Clipping.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Index.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Vertex.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ModelOperations.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IO_GDI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IO_Model.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IO_File.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VecMath.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CubeMap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PointLight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DirectionalLight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SpotLight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Color.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Display.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Mat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Math.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Model.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Surface.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Time.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Vec2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Vec3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Vec4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Window.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IO.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Face.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="JoeyRender.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Quaternion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Index.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Vertex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ModelOperations.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VecMath.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CubeMap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PointLight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectionalLight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SpotLight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Cow.obj">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Model.obj">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Tank.obj">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Car.obj">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Plane.obj">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Mat.mtl">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Cow2.obj">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Cow2.mtl">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Monkey.obj">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Monkey.mtl">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="CubeMap.obj">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="CubeMap.mtl">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Plane2.obj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Tex.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Pic.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Dog.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Check.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="White.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="CarRes\BRAKES.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="CarRes\grille1.tga">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="CarRes\grille2.tga">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="CarRes\interior_lod0.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="CarRes\lights_lod0.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="CarRes\nodamage_lod0.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="CarRes\sci_frs_13_txt_miles.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="CarRes\sci_frs_13_txt_mph.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="CarRes\sci_frs_13_txt_odo.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="CarRes\undercarriage.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="CarRes\wheel.tga">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="CarRes\wood.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\MonkeyTex.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="DogNorm.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="cube\negx.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="cube\negy.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="cube\negz.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="cube\posx.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="cube\posy.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="cube\posz.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="LoadScreen.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RockNorm.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="BrickTex.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="RockTex.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Car.mtl">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>

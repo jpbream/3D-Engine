@@ -1,0 +1,42 @@
+newmtl NegX
+Ns 0
+Ka 1 1 1
+map_Ka cube/negx.jpg
+Kd 0 0 0
+Ks 0 0 0
+
+newmtl PosX
+Ns 0
+Ka 1 1 1
+map_Ka cube/posx.jpg
+Kd 0 0 0
+Ks 0 0 0
+
+newmtl PosZ
+Ns 0
+Ka 1 1 1
+map_Ka cube/posz.jpg
+Kd 0 0 0
+Ks 0 0 0
+
+newmtl NegZ
+Ns 0
+Ka 1 1 1
+map_Ka cube/negz.jpg
+Kd 0 0 0
+Ks 0 0 0
+
+newmtl PosY
+Ns 0
+Ka 1 1 1
+map_Ka cube/posy.jpg
+Kd 0 0 0
+Ks 0 0 0
+
+newmtl NegY
+Ns 0
+Ka 1 1 1
+map_Ka cube/negy.jpg
+Kd 0 0 0
+Ks 0 0 0
+
